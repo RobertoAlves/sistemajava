@@ -37,8 +37,7 @@ public class TestaHeranca {
         contaEsp1.saque(2600);
         contaEsp2.saque(200);
         contaPoup.saque(930);
-        
-        
+                
         contaEsp1.imprimeDados();
         contaEsp2.imprimeDados();
         contaPoup.imprimeDados();
